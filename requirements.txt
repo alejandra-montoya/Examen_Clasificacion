@@ -1,0 +1,4 @@
+splitfolders
+tensorflow
+matplotlib
+numpy
